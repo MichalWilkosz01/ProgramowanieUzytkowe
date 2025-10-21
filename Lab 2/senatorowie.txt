@@ -1,0 +1,106 @@
+                Imie             Nazwisko
+0              Rafa³             Ambrozik
+1        W³odzimierz             Bernacki
+2             Halina                Bieda
+3          Magdalena               Biejat
+4          Krzysztof           Bieñkowski
+5           Grzegorz             Bierecki
+6         Przemys³aw            B³aszczyk
+7            Ryszard                Bober
+8               Adam               Bodnar
+9               Anna              Bogucka
+10             Marek             Borowski
+11            Bogdan           Borusewicz
+12           Ryszard               Brejza
+13      Gustaw Marek              Brzezin
+14             Jerzy        Chróœcikowski
+15            Leszek            Czarnobaj
+16          Grzegorz               Czelej
+17           Wies³aw            Dobkowski
+18             Artur                Dunin
+19            Wiktor               Durlak
+20             Waldy            Dzikowski
+21           Andrzej               Dziuba
+22          Grzegorz           Fedorowicz
+23             Jerzy           Fedorowicz
+24           Zygmunt          Frankiewicz
+25            Leszek              Galemba
+26         Stanis³aw            Gaw³owski
+27          Beniamin               Godyla
+28         Stanis³aw               Gogacz
+29        Mieczys³aw                Golba
+30         Agnieszka         Gorgoñ-Komor
+31              Anna               Górska
+32            Maciej               Górski
+33            Tomasz              Grodzki
+34            Janusz               Gromek
+35             Rafa³            Grupiñski
+36               Jan             Hamerski
+37           Jolanta               Hibner
+38           Tadeusz         Jarmuziewicz
+39             Józef            Jod³owski
+40           Andrzej               Kalata
+41        Ewa Monika             Kaliszuk
+42            Micha³             Kamiñski
+43         Stanis³aw           Karczewski
+44            Marcin            Karpiñski
+45        Ma³gorzata       Kidawa-B³oñska
+46         Kazimierz               Kleina
+47           Andrzej               Kobiak
+48         Magdalena               Kochan
+49         Agnieszka   Ko³acz-Leszczyñska
+50         W³adys³aw           Komarnicki
+51             Marek           Komorowski
+52          Wojciech            Konieczny
+53            Maciej               Kopiec
+54          Waldemar               Kraska
+55         Krzysztof          Kwiatkowski
+56            Tomasz                 Lenz
+57         Jan Filip              Libicki
+58           Ryszard                Majer
+59             Beata       Ma³ecka-Libera
+60            Robert              Mam¹tow
+61             Piotr            Mas³owski
+62               Ewa              Matecka
+63          Gabriela    Morawska-Stanecka
+64           Andrzej                Paj¹k
+65         Stanis³aw               Pawlak
+66          Waldemar               Pawlak
+67            Janusz              Pêcherz
+68             Marek                  Pêk
+69    Monika Jadwiga           Pi¹tkowska
+70           Jolanta           Piotrowska
+71          Zdzis³aw                 Pupa
+72          Miros³aw             Ró¿añski
+73          Jaros³aw             Rusiecki
+74          S³awomir              Rybicki
+75            Janina           Sagatowska
+76          Grzegorz             Schetyna
+77            Joanna               Seku³a
+78        Ma³gorzata  Seku³a-Szmajdziñska
+79            Micha³           Seweryñski
+80      Henryk Piotr           Siedlaczek
+81          Wojciech          Skurkiewicz
+82         Krzysztof                 S³oñ
+83              Adam            Szejnfeld
+84        Aleksander                Szwed
+85           Ryszard              Œwilski
+86             Jacek                Trela
+87             Wadim          Tyszkiewicz
+88  Kazimierz Micha³           Ujazdowski
+89             Jerzy               Wcis³a
+90         Kazimierz                Wiatr
+91          Waldemar            Witkowski
+92             Jacek            W³osowicz
+93             Piotr              WoŸniak
+94            Alicja                Zaj¹c
+95             Józef                Zaj¹c
+96            Marcin               Zawi³a
+97           Barbara           Zdrojewska
+98          Wojciech             Ziemniak
+99            Maciej                ¯ywno
+Liczba senatorów z dwucz³onowymi imionami: 6
+Liczba senatorów z dwucz³onowymi nazwiskami: 6
+Liczba senatorów z polskimi znakami w nazwisku: 40
+Liczba senatorek: 20
+Liczba senatorów: 80

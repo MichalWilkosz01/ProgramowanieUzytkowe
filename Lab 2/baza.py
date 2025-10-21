@@ -1,4 +1,5 @@
 import pyodbc
+import jsonpickle
 from typing import List
 
 class TwierdzenieMatematyczne:
@@ -47,6 +48,8 @@ class Tabela_TwierdzeniaMatematyczne:
         return self.cursor.fetchone()[0]
     
     def usun_wszystko(self) -> None:
+        self.cursor.execute("DELETE FROM dbo.TwierdzeniaMatematyczne")
+        self.conn.commit()
         
     
 
@@ -59,4 +62,10 @@ if __name__ == "__main__":
             print(h)
         liczba_hasel = tabela.policz_hasla()
         print(liczba_hasel)
+
+        json_data = jsonpickle.encode(hasla, unpicklable=False) #Usuniecie py/obj z serializacji
+        with open("hasla.json", "w", encoding="utf-8") as file:
+            file.write(jsonpickle.encode(json_data))
+            
+        tabela.usun_wszystko()
 
